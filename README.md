@@ -1,2 +1,2 @@
 # backend-rawg-api
-making rest template
+ rest template
